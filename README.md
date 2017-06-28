@@ -1,3 +1,3 @@
 # udacity_ud120_projects
-projects for udacity machine learning courses
+Starter project code for students taking Udacity ud120
 https://github.com/udacity/ud120-projects/blob/master/validation/validate_poi.py
